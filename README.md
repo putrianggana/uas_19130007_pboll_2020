@@ -1,7 +1,11 @@
 Import .swing.*;
+
 import .awt.*;
+
 class TesGridLayout {
+
 public static void main(String[] args) {
+
 JFrame f = new JFrame("Tes Swing");
 f.setDefaultLookAndFeelDecorated(true);
 f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -19,6 +23,7 @@ p1.add(b3);
 p1.add(b4);
 p1.add(b5);
 p1.add(b6);
+
 f.add("North", p1);
 JButton b7 = new JButton("Tombol 7");
 JButton b8 = new JButton("Tombol 8");
