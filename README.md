@@ -33,13 +33,7 @@ p2.add(b);
 p2.add(b);
 p2.add(b);
 p2.add(b);
-SK MENDIKBUD RI
-Nomor : 254/E/O/2014
-Tanggal: 18 Juli 2014
-YAYASAN PENDIDIKAN DHARMA ANDALAS
-UNIVERSITAS DHARMA ANDALAS
-UNTUK KECERDASAN BANGSA
-Jl. Sawahan No. 103 A, Simpang Haru Padang Telp./Fax. 0751-37135
+
 p2.add(b);
 f.add("South", p2);
 f.pack();
