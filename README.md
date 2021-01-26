@@ -7,7 +7,9 @@ class TesGridLayout {
 public static void main(String[] args) {
 
 JFrame f = new JFrame("Tes Swing");
+
 f.setDefaultLookAndFeelDecorated(true);
+
 f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 JButton b = new JButton("Tombol 1");
 JButton b = new JButton("Tombol 2");
