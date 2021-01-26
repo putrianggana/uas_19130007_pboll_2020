@@ -21,10 +21,15 @@ JButton b = new JButton("Tombol 6");
 JPanel p1 = new JPanel();
 p1.setLayout(new GridLayout(4, 2));
 p1.add(b1);
+
 p1.add(b2);
+
 p1.add(b3);
+
 p1.add(b4);
+
 p1.add(b5);
+
 p1.add(b6);
 
 f.add("North", p1);
@@ -37,14 +42,22 @@ JButton b12 = new JButton("Tombol 12");
 JPanel p2 = new JPanel();
 p2.setLayout(new GridLayout(2, 4, 10, 10));
 p2.add(b);
-p2.add(b);
-p2.add(b);
-p2.add(b);
+
 p2.add(b);
 
 p2.add(b);
+
+p2.add(b);
+
+p2.add(b);
+
+p2.add(b);
+
 f.add("South", p2);
+
 f.pack();
+
 f.setVisible(true);
+
 }
-}
+  }
