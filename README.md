@@ -11,8 +11,9 @@ JFrame f = new JFrame("Tes Swing");
 f.setDefaultLookAndFeelDecorated(true);
 
 f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
 JButton b = new JButton("Tombol 1");
-JButton b = new JButton("Tombol 2");
+JButton b = new JButton("Tombol 2")
 JButton b = new JButton("Tombol 3");
 JButton b = new JButton("Tombol 4");
 JButton b = new JButton("Tombol 5");
